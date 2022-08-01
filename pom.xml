@@ -11,7 +11,7 @@
 	<groupId>portfolio.sjmontini</groupId>
 	<artifactId>portfolio_back</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>portfolio_back</name>
+	<name>sjmontiniportfolioback</name>
 	<description>Portfolio Sebastian Javier Montini</description>
 	<properties>
 		<java.version>1.8</java.version>
